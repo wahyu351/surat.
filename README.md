@@ -1,4 +1,4 @@
-# surat untuk kamu
+# Surat untuk kamu
 <!DOCTYPE html>
 <html lang="id">
 <head>
